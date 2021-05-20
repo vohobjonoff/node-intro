@@ -11,11 +11,7 @@
   - [Sharing and Deploying](#sharing-and-deploying)
 
 ## Resources
-* [Slides](https://slides.com/scotups/deck/fullscreen)
-* [Nodejs](https://nodejs.org/en/)
-* [NVM](https://github.com/creationix/nvm)
-* [Heroku](https://heroku.com)
-* [NPM](https://www.npmjs.com/)
+*
 
 
 
