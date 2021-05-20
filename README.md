@@ -10,8 +10,6 @@
   - [Debugging & Testing](#debugging--testing)
   - [Sharing and Deploying](#sharing-and-deploying)
 
-## Resources
-*
 
 
 
