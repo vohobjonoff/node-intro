@@ -17,8 +17,7 @@
 * [Heroku](https://heroku.com)
 * [NPM](https://www.npmjs.com/)
 
-## Course
-Thanks for taking the [Introduction to Node.js course](https://frontendmasters.com/courses/node-js/) -- the course has two parts: slides and exercises. The slides describe the exercises in detail. Each exercise have a folder.
+
 
 ## Exercises
 
